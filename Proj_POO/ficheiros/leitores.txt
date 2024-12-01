@@ -1,0 +1,4 @@
+Comum,João Silva,25
+Estudante,Maria Santos,16,Escola Secundária ABC
+Professor,Dr. Pedro Oliveira,45,Departamento de Física
+Senior,Dona Ana Costa,70
